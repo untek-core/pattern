@@ -6,6 +6,8 @@ use Untek\Core\Arr\Helpers\ArrayHelper;
 use Untek\Core\Contract\Common\Exceptions\InvalidArgumentException;
 use Untek\Core\Instance\Helpers\InstanceHelper;
 
+\Untek\Core\Code\Helpers\DeprecateHelper::hardThrow();
+
 /**
  * Class BaseStrategyContext
  *

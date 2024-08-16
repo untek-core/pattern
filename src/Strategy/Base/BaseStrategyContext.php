@@ -2,6 +2,8 @@
 
 namespace Untek\Core\Pattern\Strategy\Base;
 
+\Untek\Core\Code\Helpers\DeprecateHelper::hardThrow();
+
 /**
  * Class BaseStrategyContext
  *
